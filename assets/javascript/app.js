@@ -64,19 +64,19 @@ var questions = [{
     correctAnswer: "super speed",
     image:"assets/images/quicksilver.gif"
 }, {
-    question: '',
-    answers: ["", "", "", ""],
-    correctAnswer: "Fresh",
-    image:"assets/images/.gif"
+    question: "Which of these X-Men DOESN'T have blue skin or fur?",
+    answers: ["Mystique", "Nightcrawler", "Beast", "Jubilee"],
+    correctAnswer: "Jubilee",
+    image:"assets/images/jubilee.gif"
 }, {
-    question: '',
-    answers: ["", "", "", ""],
-    correctAnswer: "Fresh",
-    image:"assets/images/.gif"
+    question: 'Gambit uses cards to display his power. What kind of energy does he charge them up with?',
+    answers: ["Kinetic", "Thermal", "Radiant", "Electrical"],
+    correctAnswer: "Kinetic",
+    image:"assets/images/gambit.gif"
 }, {
-    question: '',
-    answers: ["", "", "", ""],
-    correctAnswer: "Fresh",
+    question: 'I am a kind hearted, handicapped man who helps mutants to face the world.',
+    answers: ["Magneto", "Cyclops", "Jean", "Professor Xavier"],
+    correctAnswer: "Professor Xavier",
     image:"assets/images/.gif"            
 }];
 
