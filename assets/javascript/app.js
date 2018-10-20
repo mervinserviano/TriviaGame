@@ -57,10 +57,10 @@ var questions = [{
     question: "This mutant is naturally impervious to Cyclops' optic blasts.",
     answers: ["Wolverine", "Havok", "Magneto", "Juggernaut"],
     correctAnswer: "Havok",
-    image:"assets/images/.havok.gif"
+    image:"assets/images/havok.gif"
 }, {
     question: "What mutant ability does Magneto's son Quicksilver have?",
-    answers: ["Controlling the sun's rotation", "Changing into liquid metal", "Super speed", "Controlling magnetism and metal"],
+    answers: ["Flight", "Magnetism", "Super speed", "Telekinesis"],
     correctAnswer: "super speed",
     image:"assets/images/quicksilver.gif"
 }, {
@@ -77,7 +77,7 @@ var questions = [{
     question: 'I am a kind hearted, handicapped man who helps mutants to face the world.',
     answers: ["Magneto", "Cyclops", "Jean", "Professor Xavier"],
     correctAnswer: "Professor Xavier",
-    image:"assets/images/.gif"            
+    image:"assets/images/profX.gif"            
 }];
 
 

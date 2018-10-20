@@ -1,14 +1,14 @@
 html, body{
     height:100%;
-    color: gold;
+    color:white;
   }
   
   body{
     background-image: url("../images/X-Men_Earth-TRN259_001.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 60%; 
-    background-color:rgb(24, 17, 17);
+    background-size: 40%; 
+    background-color:black;
     text-align: center;
 
   }
