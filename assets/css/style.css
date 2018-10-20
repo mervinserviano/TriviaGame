@@ -1,0 +1,72 @@
+html, body{
+    height:100%;
+    color: gold;
+  }
+  
+  body{
+    background-image: url("../images/X-Men_Earth-TRN259_001.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%; 
+    background-color:rgb(24, 17, 17);
+    text-align: center;
+
+  }
+  
+  #wrapper{
+    margin:2.5% auto;
+    background-color: yellow(0, 0, 0, 0.11);
+    width:960px;
+    height: 95%;
+    box-sizing: border-box;
+  }
+  
+  #subwrapper{
+    position: relative;
+  }
+  button{
+    display:block;
+    width:50%;
+    height:20%;
+    margin: 0 auto;
+    border:none;
+    cursor: pointer;
+    background: rgba(239, 243, 243, 0.664);
+    font-size: 42px;;
+  }
+  
+  img{
+    height:200px;
+  }
+  
+  h1{
+    font-family: 'OCR A Std', monospace;
+    font-size: 6.5em;
+    font-weight: bold;
+    color:rgb(38, 0, 255);
+    padding-top: 2.5%;
+  }
+  
+  h2{
+    font-size: 35px;
+    margin-bottom: 25px;
+  }
+  
+  h3{
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  #start{
+    margin-top: 10%;
+    border:2px solid white;
+    background: rgb(207, 255, 192);
+  }
+  
+  
+  
+  button:hover {
+    border:2px solid rgba(33, 33, 124, 0.507);
+    background:rgba(81, 255, 0, 0.952);
+  }
+  

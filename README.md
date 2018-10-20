@@ -43,6 +43,114 @@ In this assignment, You'll create a Trivia game using JavaScript for the logic a
 
 * Don't forget to include a countdown timer.
 
+//1. Magneto has the power to control what element?
+
+wind
+metal
+ice
+fire
+
+2. This X-Man has the ability to spawn portals to teleport objects and people virtually anywhere. Who is he/she?
+
+Cable
+Blink
+Nightcrawler
+Pipeline
+
+3. Who of the following was NOT a founding member of the X-Men?",
+  Marvel Girl
+  Angel
+  Wolverine
+  Iceman
+
+4. Which of the following mutants does NOT have some mutant ability relating to luck and probabilities?
+
+Longshot
+Roulette
+Scarlet Witch
+White Queen
+
+5. This X-Man has the power to absorb and store any form energy, which he/she can then release at will.
+
+Gambit
+Bishop
+Sunfire
+Rogue
+
+6. Which of the following can NOT read minds?
+
+Psylocke
+Magneto
+Professor X
+Jean Grey
+
+7. This evil mutant has the ability to release a deadly virus from his body. Who is he?
+
+Omega Red
+Deathbird
+Pestilence
+Famine
+
+8. The following characters have one thing in common: they have no powers in and of themselves, only the ability to influence other mutants' powers. Which does NOT belong?
+
+Ricochet
+Leech
+Rogue
+Jean Grey
+
+9. This X-Man had the ability to invent and build any kind of object or machine he could think of. What was his name?
+
+Answer: 
+( One word, five letters)
+10. Beast was born covered in blue fur.
+
+True
+False
+
+11. This mutant is naturally impervious to Cyclops' optic blasts.
+
+Wolverine
+Havok
+Magneto
+Juggernaut
+
+12. The following mutants can all attack enemies with light. Which is not one of these?
+
+Whiteout
+Dazzler
+Arclight
+Shard
+
+13. All but one of the following mutants can reproduce another mutant's power in him/herself without direct contact. Which can not?
+
+Synch
+Copycat
+Mimic
+Rogue
+
+14. What was the "New Mutant" Cypher's ability?
+
+A natural understanding of all languages.
+Invisibility by hiding in a persons "blind spot"
+Long-range telepathy
+Converting sound into light energy
+
+15. What mutant ability does Magneto's son Quicksilver have?
+
+controlling the sun's rotation
+changing into liquid metal
+super speed
+controlling magnetism and metal
+
+
+
+
+
+
+
+
+
+
 ### Option Two: Advanced Assignment (Timed Questions)
 
 ![Advanced](Images/2-advanced.jpg)
